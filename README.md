@@ -60,8 +60,18 @@
             └── VariableNode (name: b)
 ```
 
-## 5. Тестовый пример
+## 5. Тестовые примеры
+Пример без ошибок, AST дерево:
 ![alt text](image-3.png)
+
+Примеры с ошибками:
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
 
 ## 6. Инструкция по запуску
 1. Установите необходимые зависимости: `pip install PyQt6`
